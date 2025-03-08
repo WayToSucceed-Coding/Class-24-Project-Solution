@@ -1,6 +1,6 @@
 # main.py
 
-import chatbot.responses as responses
+from chatbot.responses import get_response
 
 
 def start_bot():
